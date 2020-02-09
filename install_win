@@ -1,6 +1,7 @@
 Python 2.7.6 32Bit (Add to system path)
-Node v7.10.1
+Node v7.10.1 64Bit
 .NET Framework 4.6
 BuildTools 2015 https://spin.atomicobject.com/2019/03/27/node-gyp-windows/
 npm install --global --production windows-build-tools --vs2015
 npm config set msvs_version 2015 –global
+Redis-Server 64Bit
